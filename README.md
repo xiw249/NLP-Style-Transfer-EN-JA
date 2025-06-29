@@ -33,4 +33,4 @@ For a complete description of our proposed methodology, experimental setup, and 
 
 ## Team
 
-This project was a collaborative research effort with my teammates: [请在此填写您队友的名字, Annanya, Jayden Serenari, Noah Bright].
+This project was a collaborative research effort with my teammates: [Annanya, Jayden Serenari, Noah Bright].
