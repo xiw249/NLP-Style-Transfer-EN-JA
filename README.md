@@ -29,7 +29,7 @@ While the RL training phase presented significant challenges (as detailed in the
 
 For a complete description of our proposed methodology, experimental setup, and detailed analysis, please see the full final report.
 
-**[View Full Report (PDF)](./NLP_Group_9_Final_Report.pdf)**
+**[View Full Report (PDF)](./Report.pdf)**
 
 ## Team
 
